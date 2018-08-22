@@ -3,6 +3,18 @@ layout: post
 title: Getting Started
 author: Eugene & Kevin
 ---
+In case any of you aren’t bothered to read the rest of the article, here are the main points for today’s update.
+
+- Description of the project
+- Time Frame: 32 weeks
+- Kevin will do the front-end stuff - HTML, CSS, JS
+- Eugene will do the back-end stuff (Django) and connect the front-end to the back-end
+- Picture of Gantt
+- Flowchart is still in progress - here’s a screenshot
+- Contact us if you’re interested in helping!
+
+Anyway!!
+
 We’re back! School just started and we’re getting back on track with the project. For those of you who aren’t too sure what this project is, in short, we’re reforming the way students get their food. As an attempt to shorten cafeteria lines, we’re designing an online pre-ordering system that allows everyone at STC to order their food a day ahead. 
 
 Currently, we’ve produced Gantt charts for both of us. Basically, this is a rudimentary idea of our time plan; please do not take this as a finalized timetable of hard deadlines, this chart is just going to plot out the general trajectory our project will proceed through:
