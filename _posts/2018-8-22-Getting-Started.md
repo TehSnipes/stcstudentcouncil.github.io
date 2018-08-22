@@ -22,4 +22,4 @@ As of now the flowchart is still in progress - but you can have a screenshot of 
 
 If you have experience in coding or designing and want to help out, feel free to contact us via our school email (type Eugene Lau or Kevin Do Cao in the school email "To" box and our respective addresses should pop up) and we’ll respond to you as soon as possible!
 
-- Eugene and Kevin
+{% raw %}- Eugene and Kevin{% endraw %}
